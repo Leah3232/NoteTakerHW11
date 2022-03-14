@@ -1,3 +1,5 @@
+## Note Taker
+
 ## Intro
 This site was made to showcase how using different ulities from Node.js and Express can combine to create a simple yet fun note taker site. You cannot lose your data as the notes will save to a JSON file. 
 
